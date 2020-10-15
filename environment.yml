@@ -22,3 +22,7 @@ dependencies:
   - eofs 
   - hvplot
   - xesmf
+  - boto3
+  - botocore
+  - intake
+  - intake-esm
