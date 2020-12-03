@@ -34,7 +34,7 @@ ASR products are presented on a custom grid, so all calculations and visualizati
 
 ## Results
 
-Only a basic statistical analysis and exploratory visualization was successfully performed.  It showed correlation between AO and albedo and also correlation between Nino 3.4 and albedo. There are intriguing regional geographic differences that seem to reflect the atmospheric changes associated with these modes. 
+Only a basic statistical analysis and exploratory visualization was successfully performed.  It showed correlation between AO and albedo and also correlation between Nino 3.4 and albedo. There are intriguing regional geographic differences that seem to reflect the atmospheric changes associated with these modes. Additionally, because ice or groundwater should delay the manifestations of AO and ENSO climate patterns on albedo. Different timeseries statistical techniques could potentially be used to characterize that. 
 
 ## Summary
 
