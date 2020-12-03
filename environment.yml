@@ -21,10 +21,10 @@ dependencies:
   - ipywidgets
   - eofs 
   - hvplot
-  - esmpy
-  - xesmf=0.3.0
+  - xesmf=0.3
   - boto3
   - botocore
   - intake
   - intake-esm
   - gcsfs
+  - esmpy<=7.1.0
