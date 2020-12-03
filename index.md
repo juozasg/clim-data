@@ -2,20 +2,21 @@
 
 ## Introduction
 
-This project investigates the connection between El Nino, the Arctic Oscillation and Arctic Surface Albedo 
+This project investigates the connection between El Nino, the Arctic Oscillation and Arctic Surface Albedo. Since Both ENSO and AO effect air temperature and precipitation, both phenomena should have an impact on albedo measured in the arctic. Colder temperatures and increased precipitation would yield more snowfall and less melting of ice. This project attempts to demonstrate that by simple correlation of monthly averages of albedo reflectance and the two indeces. The Arctic System Reanalysis dataset was selected because it contains a many variables that could be used for physical modeling of changes in arctic surface reflectance - a critical climate feedback dynamic.
+
+
 
 ## Data
 
-Arctic System Re-Analysis (Version 2) data is used. The dataset is available at UCAR Research Data Archive: https://rda.ucar.edu/datasets/ds631.1/
-
-"The Arctic System Reanalysis (ASR) is produced using a high-resolution version of the Polar Weather Research and Forecasting Model (PWRF) and High Resolution Land Data Assimilation (HRLDAS) systems that have been optimized for the Arctic."
+Arctic System Re-Analysis (Version 2) data from National Center for Atmospheric Research and Ohio State University was selected. The dataset is available at UCAR Research Data Archive: https://rda.ucar.edu/datasets/ds631.1/. It was produced from Polar Weather Research and Forecasting Model (PWRF) and High Resolution Land Data Assimilation (HRLDAS) weather research models. 
 
 ASR contains multiple products. This project uses ASRv2 15km monthly means of analysis products. The data product is presented on a 15km irregular grid. For analysis, it's regridded 0.1 degree grid using the ESMF 'bilinear' method.
 
 Albedo variable is used. Albedo is a fractional values from 0 to 1 that represents solar radiation reflection from dark material that has no reflection (Albedo = 0) to full reflection by snow surface (Albedo = 1)
 
-Arctic Oscillation (or Northern Hemisphere Annular Mode) index is correlated with Albedo anomalies to explore the feedback between atmospheric circulation and land.
+Arctic Oscillation (or Northern Hemisphere Annular Mode) index is correlated with Albedo anomalies to explore the feedback between atmospheric circulation and land. It's the primary atmospheric mode in the arctic and has many effects that are detailed here: https://www.ncdc.noaa.gov/teleconnections/ao/
 
+"The Arctic Oscillation (AO) is a large scale mode of climate variability, also referred to as the Northern Hemisphere annular mode. The AO is a climate pattern characterized by winds circulating counterclockwise around the Arctic at around 55°N latitude. When the AO is in its positive phase, a ring of strong winds circulating around the North Pole acts to confine colder air across polar regions. This belt of winds becomes weaker and more distorted in the negative phase of the AO, which allows an easier southward penetration of colder, arctic airmasses and increased storminess into the mid-latitudes."
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/1200px-Arctic_Oscillation_II.svg.png" width="200" />
 
