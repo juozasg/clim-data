@@ -21,11 +21,9 @@ dependencies:
   - ipywidgets
   - eofs 
   - hvplot
-  - xesmf
+  - xesmf=0.3.0
   - boto3
   - botocore
   - intake
   - intake-esm
   - gcsfs
-  - graphviz
-  - graphviz-python
