@@ -15,7 +15,11 @@ ASR contains multiple products. This project uses ASRv2 15km monthly means of an
 Albedo variable is used. Albedo is a fractional values from 0 to 1 that represents solar radiation reflection from dark material that has no reflection (Albedo = 0) to full reflection by snow surface (Albedo = 1)
 
 Arctic Oscillation (or Northern Hemisphere Annular Mode) index is correlated with Albedo anomalies to explore the feedback between atmospheric circulation and land.
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/1200px-Arctic_Oscillation_II.svg.png" width="200" />
+
+
 
 
 ## Code Description
