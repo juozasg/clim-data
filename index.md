@@ -1,4 +1,4 @@
-# Juozas Gaigalas
+# Exploring ENSO and AO impacts on Arctic System Reanalysis Albedo Fraction
 
 ## Introduction
 
