@@ -16,7 +16,7 @@ Albedo variable is used. Albedo is a fractional values from 0 to 1 that represen
 
 Arctic Oscillation (or Northern Hemisphere Annular Mode) index is correlated with Albedo anomalies to explore the feedback between atmospheric circulation and land.
 
-![The two modes of the Arctic Oscillation](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/1200px-Arctic_Oscillation_II.svg.png)
+![The two modes of the Arctic Oscillation](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arctic_Oscillation_II.svg/1200px-Arctic_Oscillation_II.svg.png =300px)
 
 
 ## Code Description
